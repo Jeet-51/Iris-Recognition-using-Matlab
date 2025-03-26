@@ -20,6 +20,8 @@ This project implements an **Iris Recognition System** using MATLAB, applying ad
 ## Installation
 To run this project, you will need **MATLAB** installed along with necessary libraries for image processing.
 
+![image](https://github.com/user-attachments/assets/c7e682ae-72b5-4ffa-bafd-603a42e8268a)
+
 ### Steps to Run:
 1. Clone the repository:
    ```bash
