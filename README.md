@@ -25,3 +25,14 @@ To run this project, you will need **MATLAB** installed along with necessary lib
    ```bash
    git clone https://github.com/Jeet-51/Iris-Recognition-using-Matlab.git
 
+
+## Future Work:
+The following enhancements are proposed to improve the functionality and scalability of the Iris Recognition System:
+
+- **Integration with Machine Learning**: Implement machine learning models, such as Convolutional Neural Networks (CNNs), to improve the system's ability to handle diverse iris images and automatically adapt to various lighting conditions and image qualities.
+  
+- **Multimodal Biometric Systems**: Combine iris recognition with other biometrics, such as **fingerprint** or **facial recognition**, to create a more robust, accurate, and secure system for identity verification. This multimodal approach would address limitations inherent in using a single biometric.
+
+- **Real-Time Processing**: Enhance the system to handle live video streams, allowing for real-time iris recognition. This would enable applications such as **access control**, **surveillance**, and **automated attendance systems**, where instant identification is crucial.
+
+- **Deployment on Embedded Systems**: Adapt the iris recognition system for use on **low-cost embedded hardware** like Raspberry Pi or mobile devices. This would enable widespread deployment in consumer devices, security systems, and portable biometric authentication solutions.
